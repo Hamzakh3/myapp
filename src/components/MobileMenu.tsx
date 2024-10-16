@@ -34,6 +34,12 @@ export function MobileMenu() {
           <Link href="/user/hamza" className="p-2 rounded-md hover:underline">
             Profile
           </Link>
+          <Link href="/counter" className="p-2 rounded-md hover:underline">
+            Counter
+          </Link>
+          <Link href="/streaming" className="p-2 rounded-md hover:underline">
+            Streaming
+          </Link>
         </div>
       </SheetContent>
     </Sheet>
